@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Demir</h1>
-<h3 align="center">A passionate Data Scientist from Türkiye</h3>
+<h3 align="center">A passionate ML Engineer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Explainable AI**
 
